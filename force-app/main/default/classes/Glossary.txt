@@ -1,0 +1,33 @@
+glosario
+
+-data model
+-collection
+    -CollectionUtils
+    -CollectionUtils_Tests
+    -IterationRecipes
+    -IterationRecipes_Tests
+    -ListSortingRecipes (with doc)
+        -ListUtils
+        -SortableAccount
+        -SObjectStringFieldComparator
+-sobject
+-dml
+-soql
+-sosl
+-triggers
+-lwc
+-debugging
+-apex testing
+-apex services
+-asynchronous apex
+-custom metadata
+-data
+-email
+-encryption
+-files
+-invocable
+-ldv
+-platform Cache
+-quiddity
+-schema
+
