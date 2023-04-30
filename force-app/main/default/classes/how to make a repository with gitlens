@@ -1,0 +1,7 @@
+-create a repository in github
+-in visual studio use git lens(if your project already have a repository delete gif foldes)
+-make a commit of all the stuff you want to put in your repository
+-go to terminal and execute this command
+git remote add origin https://github.com/macgutar/sfApex.git
+git branch -M main
+git push -u origin main

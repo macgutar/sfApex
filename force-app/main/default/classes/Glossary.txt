@@ -1,5 +1,7 @@
 glosario
 
+how to make a repository with gitlens
+
 -data model
 -collection
     -CollectionUtils
